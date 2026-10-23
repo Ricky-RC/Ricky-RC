@@ -72,4 +72,4 @@ Agents &amp; tool calling · RAG · LoRA · Evaluation · Computer vision</p>
 
 <p align="center"><strong>🤝 Connect</strong><br/>
 Happy to talk about building useful AI.<br/>
-<a href="https://www.linkedin.com/in/chengtao-luo/">LinkedIn</a> · <a href="mailto:rickylct008@gmail.com">rickylct008@gmail.com</a></p>
+<a href="https://ricky-rc.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/chengtao-luo/">LinkedIn</a> · <a href="mailto:rickylct008@gmail.com">rickylct008@gmail.com</a></p>
